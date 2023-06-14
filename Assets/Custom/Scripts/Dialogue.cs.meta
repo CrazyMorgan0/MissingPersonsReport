@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 0d41459239c55cf489b8b9c0008e55ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - policeRead: {fileID: 8300000, guid: 42790439f581c894ab958bf48bdff74b, type: 3}
+  - jones: {fileID: 8300000, guid: a2a595a6097c1c34ba54e4439b20d201, type: 3}
+  - noCraftKnife: {fileID: 8300000, guid: 2b9704d4ffe903346ba7f470ec91bec8, type: 3}
+  - lounge: {fileID: 8300000, guid: 43f28aa33f7f9a144bd0040523036e18, type: 3}
+  - locked: {fileID: 8300000, guid: 9956369dd85822c4cb6dd862056d9f95, type: 3}
+  - key: {fileID: 8300000, guid: 9efc8f49ed065fb47992dbd52b3fc281, type: 3}
+  - bathroom: {fileID: 8300000, guid: 57b054c279741224fa3afa1c5398aaa5, type: 3}
+  - sheets: {fileID: 8300000, guid: 83d7cf4a6b891694b81f8ed196a51922, type: 3}
+  - xanax: {fileID: 8300000, guid: 5610256ad47d4024a91c03428020974f, type: 3}
+  - craftKnife: {fileID: 8300000, guid: 5cc0f05042b233049b4d1ac83ea3af5b, type: 3}
+  - inhale: {fileID: 8300000, guid: bb97ce49bc6f15c4b9c0dc35473e54c4, type: 3}
+  - gunReady: {fileID: 8300000, guid: aeff6b79751ecc248a2e5ab1047c8e6b, type: 3}
+  - kate: {fileID: 8300000, guid: 9eca01c5e1a27984abe5a2c95496805e, type: 3}
+  - playerAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
